@@ -1,0 +1,191 @@
+*
+{
+    font-size:large;
+}
+
+.tooltip
+{
+    text-transform: capitalize;
+}
+
+.ar
+{  
+    font-family: 'Tajawal', sans-serif;
+}
+
+.lower
+{
+    margin-top:50px;
+}
+
+nav .btns_box button
+{
+    text-transform:capitalize;
+}
+
+nav .btns_box button a
+{
+    color: white;
+    text-decoration: none;
+}
+
+table
+{
+    margin-top: 60px;
+}
+.lower .table td,
+.lower .table th
+{
+    width: 33.33%;
+    text-align: center;
+    border: 1px solid #ccc;
+    text-transform:capitalize;
+    padding:10px;
+    margin-top: auto;
+    vertical-align: middle;
+}
+.lower .table th
+{
+    border-bottom: 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+td p
+{
+    display: inline-block;
+    width: 88%;
+    margin-bottom: 0px;
+}
+
+td i
+{
+    font-size: xx-large;
+}
+
+td p,
+td button
+{
+    display: inline-block;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #212529;
+    text-align: center;
+    text-decoration: none;
+    vertical-align: middle;
+    border: 0px;
+}
+
+
+td button:hover
+{
+    background-color: rgb(239, 239, 239);
+}
+
+td button
+{
+    background-color: white;
+}
+
+#links
+{
+    margin: 0;
+    padding: 0;
+}
+
+#links ul {
+    margin: 0;
+    padding: 5px;
+}
+
+#links li {
+text-align: center;
+width: 31.9%;
+margin-bottom: 3px!important;
+background-color: #fff;
+border: 1px solid #eee;
+display: inline-block;
+font-size: 10px;
+padding:0;
+}
+
+#links i {
+    display: block;
+    margin: 0 auto 10px auto;
+    width: 32px;
+    height: 32px;
+    margin: 10px auto 0;
+    line-height: 32px;
+    text-align: center;
+    font-size: 20px;
+    color: #444444;
+    margin-top:0;
+    padding-top:5px;
+}
+
+#links a{
+    text-decoration:none;
+    width:100%;
+    height:100%;
+    display:block;
+    margin:0;
+    padding:0;
+}
+
+#links a span{
+    color:rgb(78, 70, 70);
+    font-size:13px;
+    padding:5px 0 10px 0;
+    display:block;
+    text-transform:uppercase;
+    letter-spacing:1px;
+}
+
+#links .fa-comments{
+    color:greenyellow;
+}
+
+#links .fa-user-circle
+{
+    color:red;
+}
+
+#links .fa-envelope
+{
+    color:orange;
+}
+
+#links .fa-map-marker-alt
+{
+    color:blue;
+}
+
+#links .fa-file-excel
+{
+    color:chartreuse;
+}
+
+#links .fa-book-open
+{
+    color:#b30606;
+}
+
+#links .fa-sticky-note 
+{
+    color:yellow;
+}
+
+#links .fa-wallet
+{
+    color:tomato;
+}
+
+#links .fa-dollar-sign
+{
+    color:violet;
+}
+
+#links .fa-pound-sign
+{
+    color:teal;
+}
+
